@@ -17,9 +17,9 @@ With issues, you can:
 ## Creating an issue
 
 1. On GitHub, navigate to the main page of the repository.
-2. Under your repository name, click  Issues.
-3. Click New issue.
-4. If there are multiple issue types, click Get started next to the type of issue you'd like to open.
-5. Type a title and description for your issue.
+2. Under your repository name, click  **Issues**.
+3. Click **New issue**.
+4. If there are multiple issue types, click **Get started** next to the type of issue you'd like to open.
+5. Type a _title_ and _description_ for your issue.
 6. If you're a project maintainer, you can assign the issue to someone, add it to a project board, associate it with a milestone, or apply a label.
-7. When you're finished, click Submit new issue
+7. When you're finished, click **Submit new issue**
